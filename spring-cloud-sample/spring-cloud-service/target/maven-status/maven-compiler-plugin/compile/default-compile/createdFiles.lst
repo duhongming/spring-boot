@@ -1,0 +1,6 @@
+com/spring/cloud/service/model/User.class
+com/spring/cloud/service/web/UserController.class
+com/spring/cloud/service/conf/DataSourceProperties.class
+com/spring/cloud/service/conf/MybatisDataSource.class
+com/spring/cloud/service/dao/UserDao.class
+com/spring/cloud/service/domain/UserService.class

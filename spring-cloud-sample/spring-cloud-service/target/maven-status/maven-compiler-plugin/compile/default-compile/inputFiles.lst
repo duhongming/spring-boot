@@ -1,0 +1,6 @@
+/Users/Tima/work/code/spring-cloud-learn/spring-cloud-sample/spring-cloud-service/src/main/java/com/spring/cloud/service/conf/DataSourceProperties.java
+/Users/Tima/work/code/spring-cloud-learn/spring-cloud-sample/spring-cloud-service/src/main/java/com/spring/cloud/service/model/User.java
+/Users/Tima/work/code/spring-cloud-learn/spring-cloud-sample/spring-cloud-service/src/main/java/com/spring/cloud/service/domain/UserService.java
+/Users/Tima/work/code/spring-cloud-learn/spring-cloud-sample/spring-cloud-service/src/main/java/com/spring/cloud/service/conf/MybatisDataSource.java
+/Users/Tima/work/code/spring-cloud-learn/spring-cloud-sample/spring-cloud-service/src/main/java/com/spring/cloud/service/dao/UserDao.java
+/Users/Tima/work/code/spring-cloud-learn/spring-cloud-sample/spring-cloud-service/src/main/java/com/spring/cloud/service/web/UserController.java
